@@ -1,0 +1,1 @@
+{"nome":"Higor","nick":"Dark","sexo":"M - Masculino","numero":"5522996215481","yt":"https://bit.ly/2ZINr1x","insta":"sem no momento","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVG0rLOqMdRj65ug6eguzTFEZq_nT3eioPKw&usqp=CAU"}

@@ -1,0 +1,26 @@
+const help1 = (prefix, nomd) => { 
+	return `
+┏━───────────────────────────╮
+┃
+┃▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
+┃
+┃➥ *${prefix}hylander*
+┃➥ *${prefix}nikeb*
+┃➥ *${prefix}BanhoDeLeite*
+┃➥ *${prefix}AkDoFlamengo*
+┃➥ *${prefix}Nemo*
+┃➥ *${prefix}kalidade*
+┃➥ *${prefix}macaverde*
+┃➥ *${prefix}m4*
+┃➥ *${prefix}cmgremio*
+┃➥ *${prefix}cmflamengo*
+┃➥ *${prefix}kong*
+┃➥ *${prefix}suiton*
+┃
+┗━───────────────────────────╯`
+}
+
+exports.help1 = help1
+
+
+
