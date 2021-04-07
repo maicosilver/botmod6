@@ -1,0 +1,10 @@
+const cobalto = (prefix) => { 
+	return `                 	
+╠══✪〘 Ajuda 〙✪══
+║
+║*ai está a ajuda em vídeo baixa*
+║*se quiser porém é bom vc ver*
+║
+╠══✪〘 *OLAFBOT* 〙✪══`
+}
+exports.cobalto = cobalto
