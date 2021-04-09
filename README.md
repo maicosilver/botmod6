@@ -7,6 +7,7 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
+> bash install.sh -y
 > git clone https://github.com/maicosilver/botmod6
 > cd botmod6
 > npm install
